@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rushmoreMaster
+- 👀 I’m interested in Programming and cyber security
+- 🌱 I’m currently learning Angular with javascript
+- 💞️ I’m looking to collaborate on opensource softwares
+- 📫 Reach at sentivalenterprises@gmail.com
